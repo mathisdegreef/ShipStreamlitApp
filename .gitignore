@@ -1,0 +1,13 @@
+*.vscode
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.venv
+*.env
+*.log
+*.txt
+*.md
+*.json
+*.yaml
